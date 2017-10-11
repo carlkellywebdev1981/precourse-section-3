@@ -1,5 +1,31 @@
-# precourse-section-3
+# Project Title
 
-There's nothing here!
+Carl kelly Portfolio
 
-You'll have to create this project from scratch :)
+
+## Project
+
+Portfolio Website outlining my latest applications
+
+Link to Demo - [Carl Kelly Portfolio](http://www.carlkellywebdev1981.github.io)
+
+### Sections
+
+* header
+* About
+* Projects
+* Contact
+* Footer
+* Social Connect
+
+### Build With
+
+* HTML5
+* CSS3
+* JQUERY
+* JAVASCRIPT
+
+
+## Author
+
+* **Carl Kelly** 
