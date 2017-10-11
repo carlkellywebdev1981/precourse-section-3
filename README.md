@@ -7,7 +7,7 @@ Carl kelly Portfolio
 
 Portfolio Website outlining my latest applications
 
-Link to Demo - [Carl Kelly Portfolio](http://www.carlkellywebdev1981.github.io)
+Link to Demo - [Carl Kelly Portfolio](http://carlkellywebdev1981.github.io)
 
 ### Sections
 
@@ -28,4 +28,4 @@ Link to Demo - [Carl Kelly Portfolio](http://www.carlkellywebdev1981.github.io)
 
 ## Author
 
-* **Carl Kelly** 
+* **Carl Kelly**
